@@ -1,0 +1,26 @@
+{
+  "name": "blogify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start0": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandarulakshmis134-blip/blogify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bandarulakshmis134-blip/blogify/issues"
+  },
+  "homepage": "https://github.com/bandarulakshmis134-blip/blogify#readme",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
